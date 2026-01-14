@@ -55,3 +55,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ---
 
 This README includes installation instructions, a brief description of each part of the notebook, and general repository information which can be edited further as per your specific GitHub project needs.
+
+
+!(Screenshot 2026-01-13 215834.png)
