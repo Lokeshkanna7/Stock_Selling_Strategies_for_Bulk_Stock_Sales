@@ -1,5 +1,5 @@
 The notebook `Stock_selling_strategies.ipynb` contains a mix of data processing, visualization, and machine learning tasks focused on stock price analysis. Here's a structured overview based on your notebook content that can be used for the README file for your GitHub repository:
-!(Screenshot 2026-01-13 215834.png)
+
 ---
 
 # Stock Selling Strategies Analysis
@@ -55,6 +55,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ---
 
 This README includes installation instructions, a brief description of each part of the notebook, and general repository information which can be edited further as per your specific GitHub project needs.
-
+![Stock Trends Page](Screenshot 2026-01-13 215834.png)
 
 
